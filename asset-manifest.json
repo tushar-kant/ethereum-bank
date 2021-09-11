@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ethereum-bank/static/css/main.d850c1a7.chunk.css",
+    "main.js": "/ethereum-bank/static/js/main.ba8df227.chunk.js",
+    "main.js.map": "/ethereum-bank/static/js/main.ba8df227.chunk.js.map",
+    "runtime-main.js": "/ethereum-bank/static/js/runtime-main.3a783565.js",
+    "runtime-main.js.map": "/ethereum-bank/static/js/runtime-main.3a783565.js.map",
+    "static/css/2.5dcc52c6.chunk.css": "/ethereum-bank/static/css/2.5dcc52c6.chunk.css",
+    "static/js/2.0ec3ec07.chunk.js": "/ethereum-bank/static/js/2.0ec3ec07.chunk.js",
+    "static/js/2.0ec3ec07.chunk.js.map": "/ethereum-bank/static/js/2.0ec3ec07.chunk.js.map",
+    "index.html": "/ethereum-bank/index.html",
+    "precache-manifest.faafe5cb7a14ab8486bac3bae9c366b2.js": "/ethereum-bank/precache-manifest.faafe5cb7a14ab8486bac3bae9c366b2.js",
+    "service-worker.js": "/ethereum-bank/service-worker.js",
+    "static/css/2.5dcc52c6.chunk.css.map": "/ethereum-bank/static/css/2.5dcc52c6.chunk.css.map",
+    "static/css/main.d850c1a7.chunk.css.map": "/ethereum-bank/static/css/main.d850c1a7.chunk.css.map",
+    "static/js/2.0ec3ec07.chunk.js.LICENSE.txt": "/ethereum-bank/static/js/2.0ec3ec07.chunk.js.LICENSE.txt",
+    "static/media/dbank1.png": "/ethereum-bank/static/media/dbank1.6255ab96.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a783565.js",
+    "static/css/2.5dcc52c6.chunk.css",
+    "static/js/2.0ec3ec07.chunk.js",
+    "static/css/main.d850c1a7.chunk.css",
+    "static/js/main.ba8df227.chunk.js"
+  ]
+}
