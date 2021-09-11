@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Decentralized Bank",
   "author": "tusharkantanayak713.com",
-  "homepage": ".",
+  "homepage": "https://tushar-kant.github.io/eth-bank",
   "dependencies": {
     "@openzeppelin/contracts": "3.3.0",
     "@truffle/hdwallet-provider": "1.1.0",
@@ -28,11 +28,14 @@
     "truffle-hdwallet-provider-privkey": "0.3.0",
     "web3": "1.2.6"
   },
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
