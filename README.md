@@ -1,4 +1,3 @@
-# ethereum-bank
 
 <h1 align="center">Hi 👋, I'm Tusharkanta</h1>
 # Getting Started with Create React App
